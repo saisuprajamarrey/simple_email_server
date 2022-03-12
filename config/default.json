@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "port": 8020,
+    "dbName": "bouncedEmails",
+    "emailServiceProvider": "aws"
+  }
+}
